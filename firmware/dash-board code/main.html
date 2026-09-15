@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Opti-Grow</title>
+</head>
+<body>
+    <nav id="sidebar">
+        <div class="project">
+            <span>Opti-Grow</span>
+        </div>
+        <ul>
+            <li class="active">
+                <a href="main.html">
+                <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="about.html">
+                <span>About</span>
+                </a>
+            </li>
+        </ul>
+        </nav>
+        <main>
+            <h1>Welcome to Opti-Grow</h1>
+            <h2>Dashboard</h2>
+            <section class="measurements">
+                <h3>Sensors Readings</h3>
+                <div class="sensor-data">
+                    <div class="sensor" id="temperature">
+                        <div class="sensor-name">Temperature</div>
+                        <div class="sensor-value" style="--value:0;">
+                        <div class ="sensor-text">
+                            <span class="value">0</span>
+                            <span class="unit">°C</span>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="sensor" id="humidity">
+                        <div class="sensor-name">Humidity</div>
+                        <div class="sensor-value" style="--value:0;">
+                            <div class ="sensor-text">
+                                <span class="value">0</span>
+                                <span class="unit">%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sensor" id="soil">
+                        <div class="sensor-name">Soil Moisture</div>
+                        <div class="sensor-value" style="--value:0;">
+                            <div class ="sensor-text">
+                                <span class="value">0</span>
+                                <span class="unit">%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sensor" id="light">
+                        <div class="sensor-name">Light Intensity</div>
+                        <div class="sensor-value" style="--value:0;">
+                            <div class ="sensor-text">
+                                <span class="value">0</span>
+                                <span class="unit">lux</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="controls">
+                <h3>Actuators</h3>
+                <div class="actuators-buttons">
+                    <div id ="peltier1">
+                    <div class="actucator-section">Peltier 1</div>
+                    <button class = "button-action" onclick= "toggleActuator('peltier1')">OFF</button>
+                </div>
+                <div id ="peltier2">
+                    <div class="actucator-section">Peltier 2</div>
+                    <button class = "button-action" onclick= "toggleActuator('peltier2')">OFF</button>
+                </div>
+                <div id ="fan1">
+                    <div class="actucator-section">Fan 1</div>
+                    <button class = "button-action" onclick= "toggleActuator('fan1')">OFF</button>
+                </div>
+                <div id ="fan2">
+                    <div class="actucator-section">Fan 2</div>
+                    <button class = "button-action" onclick= "toggleActuator('fan2')">OFF</button>
+                </div>
+                <div id ="humidifier">
+                    <div class="actucator-section">Humidifier</div>
+                    <button class = "button-action" onclick= "toggleActuator('humidifier')">OFF</button>
+                </div>
+                <div id ="heatlamb">
+                    <div class="actucator-section">Bulb</div>
+                    <button class = "button-action" onclick= "toggleActuator('bulb')">OFF</button> 
+                </div>
+                <div id ="waterpump">
+                    <div class="actucator-section">Water Pump</div>
+                    <button class = "button-action" onclick= "toggleActuator('waterpump')">OFF</button>
+                </div>
+                </div>
+            </section>
+        </main>
+        </body>
+        </html>
