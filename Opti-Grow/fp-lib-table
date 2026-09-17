@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "esp") (type "KiCad") (uri "E:/esp.pretty") (options "") (descr ""))
 	(lib (name "esp-opti") (type "KiCad") (uri "E:/esp-opti.pretty") (options "") (descr ""))
+	(lib (name "kicad logo") (type "KiCad") (uri "C:/Users/Moataz Ahmed/Downloads/kicad logo") (options "") (descr ""))
 )

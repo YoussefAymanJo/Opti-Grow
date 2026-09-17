@@ -658,13 +658,18 @@
       {
         "filename": "Opti-Grow.kicad_sch",
         "name": "Opti-Grow",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "90ff9e7b-dcbc-488f-b719-0bf28c5c1f67"
       }
     ],
-    "used_designators": "U1",
+    "used_designators": "M1-5,U1-9,LA1,PE1-2,K1,J1-5,#PWR1-17",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "90ff9e7b-dcbc-488f-b719-0bf28c5c1f67",
+      "Opti-Grow"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
