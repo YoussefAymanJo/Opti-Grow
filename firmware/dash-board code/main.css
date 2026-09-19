@@ -202,4 +202,27 @@ section{
     color:#101410;
     border-color:#8bcf72;
 }
-
+main{
+    padding:48px 58px;
+    box-sizing:border-box;
+    display:flex;
+    flex-direction:column;
+    gap:25px;
+    align-items:center;
+}
+main h1{
+    font-family: 'Fraunces', serif;
+    font-size:48px;
+    font-weight:700;
+    color:#8bcf72;
+    letter-spacing:1.5px;
+}
+main iframe{
+    width:100%;
+    height:100%;
+    border:none;
+    border-radius:15px;
+    align-self:center;
+    border: 1px solid #29312b;
+    background-color: #1a201b;
+}
