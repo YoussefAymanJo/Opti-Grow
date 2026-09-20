@@ -58,3 +58,24 @@ soooo, i searched about the suitable footprints i will need and finally i design
 ![alt text](image-5.png)
 
 ![alt text](image-6.png)
+
+## Recorded link:
+- https://lapse.hackclub.com/timelapse/oBFSV6Mf2WTm
+
+-------------------------------------
+
+## before starting the hardware process
+
+- **making the website:** approx 5 hours.
+
+- so, before starting the hardware part in my team. i made the website to display data from the ESP module and conducted a test run using dummy data.
+
+![alt text](image-7.png)          ![alt text](image-8.png)
+
+Also, i integrated it with Firebase for the trial.
+
+![alt text](image-10.png)
+
+ I also created an "About" page featuring the project's scientific poster detailing the concept, components, and connections to physics and chemistry principles.
+
+![alt text](image-9.png)
