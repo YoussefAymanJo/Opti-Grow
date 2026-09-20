@@ -82,9 +82,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "D:/Opti-Grow/Opti-Grow/Gerbers/")
 		)
 	)
 	(footprint "Connector_PinHeader_2.00mm:PinHeader_1x08_P2.00mm_Vertical"
@@ -4691,6 +4691,18 @@
 		)
 		(embedded_fonts no)
 		(model "E:/esp-step/ESP32-S3-DEVKITC-1-N8R2.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
+		(model "D:/Opti-Grow/Opti-Grow/lib/ESP_lib/ESP32-S3-DEVKITC-1-N8R2.step"
 			(offset
 				(xyz 0 0 0)
 			)
