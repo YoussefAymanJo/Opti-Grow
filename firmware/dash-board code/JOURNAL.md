@@ -74,7 +74,7 @@ soooo, i searched about the suitable footprints i will need and finally i design
 
 Also, i integrated it with Firebase for the trial.
 
-![alt text](image-10.png)
+![alt text](image-10.png)         ![alt text](image-11.png)
 
  I also created an "About" page featuring the project's scientific poster detailing the concept, components, and connections to physics and chemistry principles.
 
