@@ -6,7 +6,7 @@
 ---
 ## Day 1 [![@moataz1411](https://img.shields.io/badge/@moataz1411-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/moataz1411)
 
-- **Total hours spent:**1.1 hours
+- **total hours spent:** 1.1 hours
 
 ### Entry:
 
@@ -19,8 +19,42 @@ soooo, i think it will be amazing and easy for the reviewer to review our work.
 
 Now, i will start to say what i did in these hours.
 
-i started a zoom meeting with my teammate youssef and We divided the work equally among ourselves. I took on the process flowchart for the project
+i started a zoom meeting with my teammate youssef and We divided the work equally among ourselves. I took on the process flowchart for the project.
 
 ![alt text](image.png)
 
-, the schematic design, and the website code—including its integration with Firebase.
+Also, i prepare for the schematic design. sooo, I designed some components that are not available in KiCad, such as the power supply, LDR sensor, soil moisture sensor,humidifier, and 8-channel relay.
+
+![alt text](image-1.png)
+
+soooo, that's all for day 1.
+
+## Recording links:
+- https://lapse.hackclub.com/timelapse/ogyNfzCJSMm7
+- https://lapse.hackclub.com/timelapse/OxvIdBLA7l52
+
+-----------------------------------
+
+## Day 2 [![@moataz1411](https://img.shields.io/badge/@moataz1411-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/moataz1411)
+
+- **Total hours spent:** 3.5 hours
+
+### Entry:
+
+yaaaaaaay!!!!, it is my second day, and It was the longest and most enjoyable day for me at the Hack Club, because I learnt a skill I had really wanted to acquire --> schematic design which is the foundation of any hardware project.
+
+first, i searched about the correct connectu=ions and the pins of all sensors and the name of the ESP pins.
+
+![alt text](image-3.png)
+
+second, i started to make the schematic design for the first time and checking the connections by searching for along time.
+
+![alt text](image-4.png)
+
+third, i turned the schematic design to simple pcb to help my friend to make the 3d design.
+
+soooo, i searched about the suitable footprints i will need and finally i designed the pcb by amazing hack cub stickers, arrrrrr!
+
+![alt text](image-5.png)
+
+![alt text](image-6.png)
