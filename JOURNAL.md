@@ -40,7 +40,15 @@ soooo, that's all for day 1.
 
 ### Entry :
 
+During this  Day, i started looking for 3d models resources for sensors ,actuotors , power supply  , 8 channel relay and stepdown on grab cad,then importing them to fusion 360.then, after clone from repo that 3d model for esp in pcb was missing ,then i added it again,then export .step and gerbers.zip file.
 
+![alt text](<Screenshot 2026-09-21 045929.png>)
+
+After that,I sketched houshing for PCB ,power supply , stepdown and relay channel,so the circuit be protected from water.At first,i created the base  ,then  
+
+![alt text](<Screenshot 2026-09-21 031127.png>)
+
+![alt text](<Screenshot 2026-09-21 031059-1.png>)
 ## Recording links : 
 - https://lapse.hackclub.com/timelapse/dAjo3OeTa0EG
 - https://lapse.hackclub.com/timelapse/q7tLGelyOhxf
