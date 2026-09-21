@@ -21,11 +21,11 @@ Now, i will start to say what i did in these hours.
 
 i started a zoom meeting with my teammate youssef and We divided the work equally among ourselves. I took on the process flowchart for the project.
 
-![alt text](image.png)
+![alt text](<firmware/dash-board code/image.png>)
 
 Also, i prepare for the schematic design. sooo, I designed some components that are not available in KiCad, such as the power supply, LDR sensor, soil moisture sensor,humidifier, and 8-channel relay.
 
-![alt text](image-1.png)
+![alt text](<firmware/dash-board code/image-1.png>)
 
 soooo, that's all for day 1.
 
@@ -45,19 +45,19 @@ yaaaaaaay!!!!, it is my second day, and It was the longest and most enjoyable da
 
 first, i searched about the correct connectu=ions and the pins of all sensors and the name of the ESP pins.
 
-![alt text](image-3.png)
+![alt text](<firmware/dash-board code/image-3.png>)
 
 second, i started to make the schematic design for the first time and checking the connections by searching for along time.
 
-![alt text](image-4.png)
+![alt text](<firmware/dash-board code/image-4.png>)
 
 third, i turned the schematic design to simple pcb to help my friend to make the 3d design.
 
 soooo, i searched about the suitable footprints i will need and finally i designed the pcb by amazing hack cub stickers, arrrrrr!
 
-![alt text](image-5.png)
+![alt text](<firmware/dash-board code/image-5.png>)
 
-![alt text](image-6.png)
+![alt text](<firmware/dash-board code/image-6.png>)
 
 ## Recorded link:
 - https://lapse.hackclub.com/timelapse/oBFSV6Mf2WTm
@@ -70,12 +70,12 @@ soooo, i searched about the suitable footprints i will need and finally i design
 
 - so, before starting the hardware part in my team. i made the website to display data from the ESP module and conducted a test run using dummy data.
 
-![alt text](image-7.png)          ![alt text](image-8.png)
+![alt text](<firmware/dash-board code/image-7.png>)       ![alt text](<firmware/dash-board code/image-8.png>)
 
 Also, i integrated it with Firebase for the trial.
 
-![alt text](image-10.png)         ![alt text](image-11.png)
+![alt text](<firmware/dash-board code/image-10.png>)         ![alt text](<firmware/dash-board code/image-11.png>)
 
  I also created an About page featuring the project's scientific poster detailing the concept, components, and connections to physics and chemistry principles.
 
-![alt text](image-9.png)
+![alt text](<firmware/dash-board code/image-9.png>)
