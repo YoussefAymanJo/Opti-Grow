@@ -93,20 +93,36 @@ soooo, i searched about the suitable footprints i will need and finally i design
 - **total hours spent:** 2 hours
 
 ### Entry :
+Oh yaah,i worked during this day on greenhouse,firstly,i contructed 4 columns on the base,and the top columns entered together using joints and glue.after constructing the colunmsn  and thier joints parts.I worked , on the roof sawtooth roof with humid fan on the top,i build the pillars then woodon holder with cutted part to the fan.
 
+![alt text](<Screenshot 2026-09-21 054228.png>)
 
+Then,i worked on wood piece that will hold peltiers ,then i added another wooden part with cutten part for ventalition.Secondly,i found out for plant pot ,then imported it and scale its size to fit with greenhouse.After that, i created water drainge box for excess water.
+
+![alt text](<Screenshot 2026-09-21 054306.png>) 
+
+![alt text](<Screenshot 2026-09-21 054258.png>)
+
+thirdly,i added bottle for water source and aligh piezo humdifier with another bottle and assembled them,after that ,i added sensors ,dht22 , ldr  pinned them with nails ,and soil moisture.Finally,i add actuotors , heatlamp , water pump.
+
+![alt text](<Screenshot 2026-09-21 054158.png>)
 ## Recording links : 
 - https://lapse.hackclub.com/timelapse/YnU-CP44TLjn
 - https://lapse.hackclub.com/timelapse/yTxvTKTNW8sa
 -------------------------------------
 
-## Day 2 [![@YoussefAymanJo](https://img.shields.io/badge/@YoussefAymanJo-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/YoussefAymanJo)
+## Day 3 [![@YoussefAymanJo](https://img.shields.io/badge/@YoussefAymanJo-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/YoussefAymanJo)
 
 - **total hours spent:** 1.3 hours
 
 ### Entry :
+Firstly, i added growlight on the pillars around it ,after that i covered ,uncovered area with extruded blocks with same diemnsions.After that, i worked on rendering,the greenhouse wil be covered by layer of polyethalen ,so i added appearece of glass to covered parts ,after  trying mutliple appearences.then,i added red led for lamp and plastic for bottles ,then all the parts will be wood ,then i addec wood apearance to them,finally i rendered.
 
+![alt text](<Screenshot 2026-09-21 040122-1.png>)
 
+Secondly,i worked on BOM ,firstly,i found for material reosurces such as sensors,actucotors ,MCU and PCB jclpcb ,then added Qt , price in USD and link.
+
+![alt text](<Screenshot 2026-09-21 030955.png>)
 ## Recording links : 
 - https://lapse.hackclub.com/timelapse/LJPAB7kc-9sK
 - https://lapse.hackclub.com/timelapse/C8eyEFVnYJ6I
@@ -115,7 +131,7 @@ soooo, i searched about the suitable footprints i will need and finally i design
 
 ## before starting the hardware process [![@moataz1411](https://img.shields.io/badge/@moataz1411-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/moataz1411)
 
-- **making the website:** approx 4.5 hours.
+- **making the website:** approx 4.5 hours on hackatime.
 
 - so, before starting the hardware part in my team. i made the website to display data from the ESP module and conducted a test run using dummy data.
 
@@ -131,7 +147,7 @@ Also, i integrated it with Firebase for the trial.
 
 ## Before Starting 3d Modeling [![@YoussefAymanJo](https://img.shields.io/badge/@YoussefAymanJo-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/YoussefAymanJo)
 
-- **making the Cicruit code :** approx 2 hours.
+- **making the Cicruit code :** approx 2 hours on hackatime.
 
 - Before,continuting 3d Modeling for Optic grow , i made circuit code ,that control and perserve plant optimal ranges using sensors and actuctors.At first,i intialized libraries for sensors and wifi connections.and then ,starting initialized wifi network ,then defining pin for sensors and actuctors.then,i defined struct for parameter high and low point.
 

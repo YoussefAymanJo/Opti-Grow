@@ -46,4 +46,4 @@ I made esp code and web to monitor data form firebase,but i will add js part lat
 
  we made the BOM and needed materials ,in egypt then convert its price to USD dollar.
 
-![alt text](<Screenshot 2026-09-21 030955.png>)
+![alt text](<Screenshot 2026-09-21 030955-1.png>)
