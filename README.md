@@ -13,21 +13,21 @@ Firstly,Buying all electronics parts,then buy and cuts wood into blocks ,by usin
 
 We  made symbols & footprints for missing parts in kicad,then wires them ,and add pin headers instead of wire sensor direct to pcb,finally,organize schematic and adding flow diagram of system feedback.
 
-![alt text](image-4.png)
+<img width="1025" height="702" alt="image-4" src="https://github.com/user-attachments/assets/ebded743-fa73-4179-b253-33415733a0ee" />
 
 ## PCB 
 pcb consist of pinheaders and will connect to sensors using isolated wires & jumpers,and actuctors will connect to relayes .we made pcb on kicad,body outline first,the routed componets together.
 
-![alt text](image-6.png) 
+![alt text](image-6.png)
 
 ![alt text](image-5.png)
-
 ## CAD
 we assembled greenhouse on fusion and make enclosure for pcb ,power supply & buck. 
 
-![alt text](<Screenshot 2026-09-21 031059.png>)
+<img width="630" height="438" alt="Screenshot 2026-09-21 031059" src="https://github.com/user-attachments/assets/530fb487-4dea-4970-aa19-2a6301e9180f" />
 
-![](<Screenshot 2026-09-21 040122.png>)
+<img width="788" height="707" alt="Screenshot 2026-09-21 040122" src="https://github.com/user-attachments/assets/02f2ea87-727c-4918-89fb-f67811943961" />
+
 ## Firmware 
 I made esp code and web to monitor data form firebase,but i will add js part later during building
 
@@ -35,14 +35,15 @@ I made esp code and web to monitor data form firebase,but i will add js part lat
 
 ![alt text](image-11.png) 
 
-![alt text](image-8.png)
+![alt text](image-8.png) 
+
+![alt text](image-11.png)
 
 ### ESP 
 
 ![alt text](<Screenshot 2026-09-21 032955.png>)
-
 ## BOM
 
  we made the BOM and needed materials ,in egypt then convert its price to USD dollar.
 
-![alt text](<Screenshot 2026-09-21 032955-1.png>)
+![alt text](<Screenshot 2026-09-21 030955.png>)
