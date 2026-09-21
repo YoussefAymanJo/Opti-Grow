@@ -44,11 +44,15 @@ During this  Day, i started looking for 3d models resources for sensors ,actuoto
 
 ![alt text](<Screenshot 2026-09-21 045929.png>)
 
-After that,I sketched houshing for PCB ,power supply , stepdown and relay channel,so the circuit be protected from water.At first,i created the base  ,then  
+After that,I sketched houshing for PCB ,power supply , stepdown and relay channel,so the circuit be protected from water.At first,i created the base  ,then  i added  on sides covers for enclose power supply from the four sides and top ,then i added AC plug with switch and opened for it to be connected directly to Power supply,also i opened hole on the top and opened grid of rectangles for air circulation.then, i opened capsule on the middle part for wires.
 
 ![alt text](<Screenshot 2026-09-21 031127.png>)
 
+
+Secondly,i added extrude basement for relay to be settled on with m3 screws,after that,i extrude pillar for pcb also and stepdown, using section analysis.Finally,opened also grid of rectanles for air circulation ,also for jumpers.then i added top cover and added fillset at corners.
+
 ![alt text](<Screenshot 2026-09-21 031059-1.png>)
+
 ## Recording links : 
 - https://lapse.hackclub.com/timelapse/dAjo3OeTa0EG
 - https://lapse.hackclub.com/timelapse/q7tLGelyOhxf
