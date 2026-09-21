@@ -13,33 +13,41 @@ Firstly,Buying all electronics parts,then buy and cuts wood into blocks ,by usin
 
 We  made symbols & footprints for missing parts in kicad,then wires them ,and add pin headers instead of wire sensor direct to pcb,finally,organize schematic and adding flow diagram of system feedback.
 
-![alt text](image-4.png)
+<img width="1025" height="702" alt="image-4" src="https://github.com/user-attachments/assets/ebded743-fa73-4179-b253-33415733a0ee" />
 
 ## PCB 
 pcb consist of pinheaders and will connect to sensors using isolated wires & jumpers,and actuctors will connect to relayes .we made pcb on kicad,body outline first,the routed componets together.
 
-![alt text](image-6.png)
+<img width="575" height="867" alt="image-5" src="https://github.com/user-attachments/assets/93a2da14-dc6d-47a7-acd6-a19ab2a6eee4" />
 
-![alt text](image-5.png)
+<img width="1280" height="798" alt="image-6" src="https://github.com/user-attachments/assets/ff61f5af-36fa-4c94-a36d-e203cb18ea99" />
+
 ## CAD
 we assembled greenhouse on fusion and make enclosure for pcb ,power supply & buck. 
 
-![alt text](<Screenshot 2026-09-21 031059.png>)
+<img width="630" height="438" alt="Screenshot 2026-09-21 031059" src="https://github.com/user-attachments/assets/530fb487-4dea-4970-aa19-2a6301e9180f" />
+
+<img width="788" height="707" alt="Screenshot 2026-09-21 040122" src="https://github.com/user-attachments/assets/02f2ea87-727c-4918-89fb-f67811943961" />
 
 ## Firmware 
 I made esp code and web to monitor data form firebase,but i will add js part later during building
 
 ### WEB
 
-![alt text](image-8.png) 
+<img width="1133" height="932" alt="image-8" src="https://github.com/user-attachments/assets/e870f921-1850-4099-a56e-0fd6dc223ae9" />
 
-![alt text](image-11.png)
+<img width="1133" height="932" alt="image-8" src="https://github.com/user-attachments/assets/58fe87fa-64cd-4d52-8c37-c336bcde17fa" />
 
 ### ESP 
 
-![alt text](<Screenshot 2026-09-21 032955.png>)
+<img width="1187" height="882" alt="Screenshot 2026-09-21 032955" src="https://github.com/user-attachments/assets/0b42f1c0-0a86-4fc3-a28f-4a23b918fa41" />
+
+
 ## BOM
 
  we made the BOM and needed materials ,in egypt then convert its price to USD dollar.
+
+ <img width="510" height="563" alt="Screenshot 2026-09-21 030955" src="https://github.com/user-attachments/assets/68313ba2-e240-4e5b-9d70-76b413ea8b36" />
+
 
 ![alt text](<Screenshot 2026-09-21 030955.png>)
