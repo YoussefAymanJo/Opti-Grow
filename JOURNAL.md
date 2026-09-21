@@ -33,6 +33,19 @@ soooo, that's all for day 1.
 - https://lapse.hackclub.com/timelapse/ogyNfzCJSMm7
 - https://lapse.hackclub.com/timelapse/OxvIdBLA7l52
 
+---
+## Day 1 [![@YoussefAymanJo](https://img.shields.io/badge/@YoussefAymanJo-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/YoussefAymanJo)
+
+- **total hours spent:** 2.1 hours
+
+### Entry :
+
+
+## Recording links : 
+- https://lapse.hackclub.com/timelapse/dAjo3OeTa0EG
+- https://lapse.hackclub.com/timelapse/q7tLGelyOhxf
+- https://lapse.hackclub.com/timelapse/nDAuFQPfPKoJ
+
 -----------------------------------
 
 ## Day 2 [![@moataz1411](https://img.shields.io/badge/@moataz1411-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/moataz1411)
@@ -62,11 +75,35 @@ soooo, i searched about the suitable footprints i will need and finally i design
 ## Recorded link:
 - https://lapse.hackclub.com/timelapse/oBFSV6Mf2WTm
 
+---
+## Day 2 [![@YoussefAymanJo](https://img.shields.io/badge/@YoussefAymanJo-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/YoussefAymanJo)
+
+- **total hours spent:** 2 hours
+
+### Entry :
+
+
+## Recording links : 
+- https://lapse.hackclub.com/timelapse/YnU-CP44TLjn
+- https://lapse.hackclub.com/timelapse/yTxvTKTNW8sa
 -------------------------------------
 
-## before starting the hardware process
+## Day 2 [![@YoussefAymanJo](https://img.shields.io/badge/@YoussefAymanJo-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/YoussefAymanJo)
 
-- **making the website:** approx 5 hours.
+- **total hours spent:** 1.3 hours
+
+### Entry :
+
+
+## Recording links : 
+- https://lapse.hackclub.com/timelapse/LJPAB7kc-9sK
+- https://lapse.hackclub.com/timelapse/C8eyEFVnYJ6I
+
+--------------------
+
+## before starting the hardware process [![@moataz1411](https://img.shields.io/badge/@moataz1411-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/moataz1411)
+
+- **making the website:** approx 4.5 hours.
 
 - so, before starting the hardware part in my team. i made the website to display data from the ESP module and conducted a test run using dummy data.
 
@@ -79,3 +116,19 @@ Also, i integrated it with Firebase for the trial.
  I also created an About page featuring the project's scientific poster detailing the concept, components, and connections to physics and chemistry principles.
 
 ![alt text](<firmware/dash-board code/image-9.png>)
+
+## Before Starting 3d Modeling [![@YoussefAymanJo](https://img.shields.io/badge/@YoussefAymanJo-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/YoussefAymanJo)
+
+- **making the Cicruit code :** approx 2 hours.
+
+- Before,continuting 3d Modeling for Optic grow , i made circuit code ,that control and perserve plant optimal ranges using sensors and actuctors.At first,i intialized libraries for sensors and wifi connections.and then ,starting initialized wifi network ,then defining pin for sensors and actuctors.then,i defined struct for parameter high and low point.
+
+![alt text](<Screenshot 2026-09-21 032955-2.png>)
+
+- then,i defined there case,first case when plant is lavendar and second for lettuce and last one for manual mode,then,the code compare between sensors reading and parameters range ,based on  condition actutotors act,such as when temp higher than optimal peltiers on and heatlamp off.
+
+![alt text](<Screenshot 2026-09-21 043642.png>)
+ 
+- last part,when user toggle any actuctors switch in websit,firebase sent it to esp ,by the following code esp read and operate specific toggled button.Finally,Esp update firebase with actuotors Status.
+
+![alt text](<Screenshot 2026-09-21 043650.png>)
